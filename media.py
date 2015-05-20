@@ -1,4 +1,4 @@
-#Define Movies class w/ title , poster url and youtube url
+# Define Movies class w/ title , poster url and youtube url
 
 class Movies():
 	def __init__(self, movie_title, poster_url, trailer_youtube_url):
